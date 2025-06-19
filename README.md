@@ -12,7 +12,7 @@ Apasionado por la ciberseguridad ofensiva y la búsqueda de vulnerabilidades. Mi
 ---
 
 ### 🏆 Mis Certificaciones
-eJPTv2|CRTA|CBBH
+ eJPTv2 | CRTA | CBBH
 
 ### 🌱 Mis Intereses y Áreas de Estudio
 
