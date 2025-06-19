@@ -1,4 +1,4 @@
-### ¡Hola! Soy Gonzalo 👋
+## ¡Hola! Soy Gonzalo 👋
 
 ---
 
