@@ -7,7 +7,7 @@
 
 Apasionado por la ciberseguridad ofensiva, con un enfoque práctico en la detección y explotación de vulnerabilidades. Este es mi laboratorio personal para desarrollar proyectos, publicar PoCs y compartir conocimiento.
 
-### 🌱 Mis Intereses y Áreas de Estudio
+### 🌱 Mis Intereses y Especialidades
 
 * Análisis de vulnerabilidades en aplicaciones web siguiendo el **OWASP Top 10**.
 * Explotación de configuraciones inseguras en entornos de **Directorio Activo** (Kerberoasting, Pass the Hash, AS-REP Roasting).
