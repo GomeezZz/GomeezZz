@@ -8,9 +8,9 @@ Este es mi espacio para desarrollar proyectos, publicar pruebas de concepto y co
 
 ### ► Certificaciones
 
-* **[Nombre de tu Certificación, ej: eJPT]**
-* **[Nombre de tu Certificación, ej: PNPT]**
-* *[Añade más aquí si es necesario]*
+* **eJPTv2**
+* **CRTA**
+* **CBBH**
 
 ---
 
