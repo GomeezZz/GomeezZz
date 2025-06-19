@@ -1,7 +1,8 @@
 ## ¡Hola! Soy Gonzalo 👋
 
 ---
-![image](https://github.com/user-attachments/assets/89af59b5-fc9d-4a4c-ad23-aab6c74c3990)
+![pentes](https://github.com/user-attachments/assets/cb9e178f-3fb8-4290-9449-73e2681de304)
+
 
 
 Apasionado por la ciberseguridad ofensiva, con un enfoque práctico en la detección y explotación de vulnerabilidades. Este es mi laboratorio personal para desarrollar proyectos, publicar PoCs y compartir conocimiento.
