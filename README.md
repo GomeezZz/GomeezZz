@@ -2,7 +2,8 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/c7915762-e531-468e-9feb-3280208781f1)
+![Gemini_Generated_Image_d6ndoxd6ndoxd6nd](https://github.com/user-attachments/assets/f2b2eec7-590f-4642-8d4b-8c8bd35f016e)
+
 
 
 Apasionado por la ciberseguridad ofensiva, con un enfoque práctico en la detección y explotación de vulnerabilidades. Este es mi laboratorio personal para desarrollar proyectos, publicar PoCs y compartir conocimiento.
