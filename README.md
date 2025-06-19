@@ -1,4 +1,4 @@
-## ¡Hola! Soy Gonzalo 👋
+<h1 align="center">¡Hola! Soy Gonzalo 👋</h1>
 
 ---
 ![pentes](https://github.com/user-attachments/assets/cb9e178f-3fb8-4290-9449-73e2681de304)
