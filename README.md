@@ -11,17 +11,15 @@ Apasionado por la ciberseguridad ofensiva, con un enfoque práctico en la detecc
 ### 🌱 Mis Intereses y Áreas de Estudio
 
 * Análisis de vulnerabilidades en aplicaciones web siguiendo el **OWASP Top 10**.
-* Técnicas de ataque y defensa en **Directorio Activo** (Kerberoasting, Pass the Hash, BloodHound).
+* Explotación de configuraciones inseguras en entornos de**Directorio Activo** (Kerberoasting, Pass the Hash, AS-REP Roasting).
 * Seguridad en APIs y metodologías basadas en el **OWASP API Security Top 10**.
 * Creación de laboratorios en mi propio entorno para practicar ataques y defensas.
 
 ### 🔧 Tecnologías y Herramientas
 
-* **Hacking Web/API:** `Burp Suite`, `OWASP ZAP`, `Postman`, `sqlmap`
+* **Hacking Web/API:** `Burp Suite`, `OWASP ZAP`, `Postman`
 * **Análisis de Red:** `Nmap`, `Wireshark`, `Masscan`
-* **Explotación:** `Metasploit Framework`, `Impacket`, `Mimikatz`, `BloodHound`
-* **Lenguajes:** `Python`, `Bash`
-* **Sistemas y Virtualización:** `Linux (Kali)`, `Windows`, `Docker`, `VMware`
+* **Explotación:** `PurpleKnight`, `Impacket`, `Mimikatz`, `BloodHound`
 ---
 
 Puedes encontrar un desglose completo de mi experiencia profesional en mi perfil de **[LinkedIn](https://www.linkedin.com/in/gonzalo-g%C3%B3mez-martos-2b51722b1/)**.
