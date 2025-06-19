@@ -15,4 +15,4 @@ Apasionado por la ciberseguridad ofensiva, con un enfoque práctico en la detecc
 * **[Certified Bug Bounty Hunter: CBBH]**
 ---
 
-Puedes encontrar un desglose completo de mi experiencia profesional en mi perfil de **[LinkedIn](https://www.linkedin.com/in/tu-usuario-de-linkedin)**.
+Puedes encontrar un desglose completo de mi experiencia profesional en mi perfil de **[LinkedIn](https://www.linkedin.com/in/gonzalo-g%C3%B3mez-martos-2b51722b1/)**.
