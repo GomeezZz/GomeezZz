@@ -2,9 +2,19 @@
 
 ---
 
-<p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Áreas de enfoque en ciberseguridad: Hacking Web, Seguridad de APIs, Directorio Activo, Pentesting">
-</p>
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
+      <p><strong>ÁREAS DE ENFOQUE</strong></p>
+      <p>
+        🛡️ Hacking Web<br>
+        📡 Seguridad de APIs<br>
+        📁 Directorio Activo<br>
+        🎯 Pentesting
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
