@@ -1,7 +1,8 @@
 <h1 align="center">¡Hola! Soy Gonzalo 👋</h1>
 
 ---
-![image](https://github.com/user-attachments/assets/ef2a650c-464e-4f5e-8a92-0b9ed325ebd1)
+![image](https://github.com/user-attachments/assets/f23ab553-7bd1-4fd7-a163-78e52b43e066)
+
 
 
 
