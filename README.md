@@ -12,7 +12,7 @@ Apasionado por la ciberseguridad ofensiva, con un enfoque práctico en la detecc
 * Análisis de vulnerabilidades en aplicaciones web siguiendo el **OWASP Top 10**.
 * Explotación de configuraciones inseguras en entornos de **Directorio Activo** (Kerberoasting, Pass the Hash, AS-REP Roasting).
 * Seguridad en APIs y metodologías basadas en el **OWASP API Security Top 10**.
-* Creación de laboratorios en mi propio entorno para practicar ataques y defensas.
+* Creación de laboratorios en mi propio entorno para practicar metodos de ataque y remediaciones.
 
 ### 🔧 Tecnologías y Herramientas
 
