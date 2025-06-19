@@ -2,21 +2,8 @@
 
 ---
 
-<table align="center" width="80%">
-  <tr>
-    <td align="center">
-      <p><strong>ÁREAS DE ENFOQUE</strong></p>
-      <p>
-        🛡️ Hacking Web<br>
-        📡 Seguridad de APIs<br>
-        📁 Directorio Activo<br>
-        🎯 Pentesting
-      </p>
-    </td>
-  </tr>
-</table>
+![image](https://github.com/user-attachments/assets/c7915762-e531-468e-9feb-3280208781f1)
 
-<br>
 
 Apasionado por la ciberseguridad ofensiva, con un enfoque práctico en la detección y explotación de vulnerabilidades. Este es mi laboratorio personal para desarrollar proyectos, publicar PoCs y compartir conocimiento.
 
