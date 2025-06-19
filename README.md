@@ -1,30 +1,17 @@
-### ¡Hola! Soy Gonzalo 👋
-
-<a href="https://www.linkedin.com/in/tu-usuario-de-linkedin" target="_blank">
-  <img align="left" alt="LinkedIn de Gonzalo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
-
-Apasionado por la ciberseguridad ofensiva y la búsqueda de vulnerabilidades. Mi principal foco de interés y estudio se centra en el **hacking de aplicaciones web**, la **seguridad de APIs** y la explotación de entornos de **Directorio Activo**.
-
-¡Bienvenido a mi espacio en GitHub! Aquí documento mi aprendizaje y comparto mis proyectos.
+### Gonzalo | Especialista en Ciberseguridad Ofensiva
 
 ---
 
-### 🏆 Mis Certificaciones
- * eJPTv2 | CRTA | CBBH
+Apasionado por la seguridad ofensiva, con un enfoque práctico en la detección y explotación de vulnerabilidades en **aplicaciones web**, **APIs** y entornos de **Directorio Activo**.
 
-### 🌱 Mis Intereses y Áreas de Estudio
+Este es mi espacio para desarrollar proyectos, publicar pruebas de concepto y compartir laboratorios de hacking.
 
-* Análisis de vulnerabilidades en aplicaciones web siguiendo el **OWASP Top 10**.
-* Técnicas de ataque y defensa en **Directorio Activo** (Kerberoasting, Pass the Hash, BloodHound).
-* Seguridad en APIs y metodologías basadas en el **OWASP API Security Top 10**.
-* Creación de laboratorios en mi propio entorno para practicar ataques y defensas.
+### ► Certificaciones
 
-### 🔧 Tecnologías y Herramientas
+* **[Nombre de tu Certificación, ej: eJPT]**
+* **[Nombre de tu Certificación, ej: PNPT]**
+* *[Añade más aquí si es necesario]*
 
-* **Hacking Web/API:** `Burp Suite`, `OWASP ZAP`, `Postman`, `sqlmap`
-* **Análisis de Red:** `Nmap`, `Wireshark`, `Masscan`
-* **Explotación:** `Metasploit Framework`, `Impacket`, `Mimikatz`, `BloodHound`
-* **Lenguajes:** `Python`, `Bash`
-* **Sistemas y Virtualización:** `Linux (Kali)`, `Windows`, `Docker`, `VMware`
+---
+
+Puedes encontrar un desglose completo de mi experiencia profesional y habilidades en mi perfil de **[LinkedIn](https://www.linkedin.com/in/tu-usuario-de-linkedin)**.
