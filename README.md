@@ -9,9 +9,9 @@ Apasionado por la ciberseguridad ofensiva, con un enfoque práctico en la detecc
 
 ### 🌱 Mis Intereses y Especialidades
 
-* Análisis de vulnerabilidades en aplicaciones web siguiendo el **OWASP Top 10**.
+* Análisis y explotación de vulnerabilidades en aplicaciones web siguiendo el **OWASP Top 10**.
 * Explotación de configuraciones inseguras en entornos de **Directorio Activo** (Kerberoasting, Pass the Hash, AS-REP Roasting).
-* Seguridad en APIs y metodologías basadas en el **OWASP API Security Top 10**.
+* Análisis de Seguridad en APIs y metodologías basadas en el **OWASP API Security Top 10**.
 * Creación de laboratorios en mi propio entorno para practicar metodos de ataque y remediaciones.
 
 ### 🔧 Tecnologías y Herramientas
